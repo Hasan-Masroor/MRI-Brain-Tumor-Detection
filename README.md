@@ -1,1 +1,1 @@
-# MRI-Brain-Tumor-Detection
+# MRI-Based Brain Tumor Detection
